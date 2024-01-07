@@ -10,5 +10,5 @@ public class ListExample {
         numbers.add(3);
         numbers.add(4);
         numbers.remove(Integer.valueOf(3));
-        System.out.println("List after removing element: " + numbers);
+        System.out.println("List after removed: " + numbers);
     }}
